@@ -6,5 +6,4 @@ This is more of an effort to practice creating a simple, usable front-end which 
 
 Demonstration:
 <p />
-<img src="output.gif" width="30%" height="30%" />
-![Demo of Boyer Moore Algorithm](output.gif)
+<img src="output.gif" width="50%" height="50%" />
